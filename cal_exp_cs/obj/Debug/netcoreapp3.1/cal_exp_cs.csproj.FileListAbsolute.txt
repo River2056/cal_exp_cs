@@ -1,0 +1,12 @@
+/Users/tungchinchen/Desktop/cs_projects/cal_exp_cs/cal_exp_cs/cal_exp_cs/bin/Debug/netcoreapp3.1/cal_exp_cs.deps.json
+/Users/tungchinchen/Desktop/cs_projects/cal_exp_cs/cal_exp_cs/cal_exp_cs/bin/Debug/netcoreapp3.1/cal_exp_cs.runtimeconfig.json
+/Users/tungchinchen/Desktop/cs_projects/cal_exp_cs/cal_exp_cs/cal_exp_cs/bin/Debug/netcoreapp3.1/cal_exp_cs.runtimeconfig.dev.json
+/Users/tungchinchen/Desktop/cs_projects/cal_exp_cs/cal_exp_cs/cal_exp_cs/bin/Debug/netcoreapp3.1/cal_exp_cs.dll
+/Users/tungchinchen/Desktop/cs_projects/cal_exp_cs/cal_exp_cs/cal_exp_cs/bin/Debug/netcoreapp3.1/cal_exp_cs.pdb
+/Users/tungchinchen/Desktop/cs_projects/cal_exp_cs/cal_exp_cs/cal_exp_cs/obj/Debug/netcoreapp3.1/cal_exp_cs.csprojAssemblyReference.cache
+/Users/tungchinchen/Desktop/cs_projects/cal_exp_cs/cal_exp_cs/cal_exp_cs/obj/Debug/netcoreapp3.1/cal_exp_cs.AssemblyInfoInputs.cache
+/Users/tungchinchen/Desktop/cs_projects/cal_exp_cs/cal_exp_cs/cal_exp_cs/obj/Debug/netcoreapp3.1/cal_exp_cs.AssemblyInfo.cs
+/Users/tungchinchen/Desktop/cs_projects/cal_exp_cs/cal_exp_cs/cal_exp_cs/obj/Debug/netcoreapp3.1/cal_exp_cs.csproj.CoreCompileInputs.cache
+/Users/tungchinchen/Desktop/cs_projects/cal_exp_cs/cal_exp_cs/cal_exp_cs/obj/Debug/netcoreapp3.1/cal_exp_cs.dll
+/Users/tungchinchen/Desktop/cs_projects/cal_exp_cs/cal_exp_cs/cal_exp_cs/obj/Debug/netcoreapp3.1/cal_exp_cs.pdb
+/Users/tungchinchen/Desktop/cs_projects/cal_exp_cs/cal_exp_cs/cal_exp_cs/obj/Debug/netcoreapp3.1/cal_exp_cs.genruntimeconfig.cache

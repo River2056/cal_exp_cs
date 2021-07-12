@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "cal_exp_cs/1.0.0": {
+        "runtime": {
+          "cal_exp_cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cal_exp_cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
